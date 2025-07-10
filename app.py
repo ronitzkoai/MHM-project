@@ -1,1 +1,2 @@
 print("Gay")
+print("Nice")
